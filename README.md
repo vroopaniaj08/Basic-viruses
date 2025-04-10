@@ -1,4 +1,4 @@
-"# Basic-viruses"
+# Fork-Bomb
 
 This repository contains batch scripts that perform various system operations, some of which can be harmful. **Use these scripts responsibly and only in controlled environments.**
 
