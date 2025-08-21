@@ -188,7 +188,7 @@ Let’s break down the two files you mentioned for **defensive learning purposes
 
 ---
 
-### 🔹 `temp_internet_disable.txt`
+## temp_internet_disable.txt
 
 #### 💡 What it likely does:
 The script usually contains commands like:
@@ -214,7 +214,7 @@ netsh interface set interface "Ethernet" admin=enable
 
 ---
 
-### 🔹 `window_crash.txt`
+## window_crash.txt
 
 #### 💡 What it likely does:
 May include commands like:
@@ -234,13 +234,14 @@ taskkill /f /im svchost.exe
 - In severe cases: Boot into **Safe Mode** and perform a system restore.
 
 ---
-### 🔹 `shutdown_virus.txt`
+
+## shutdown_virus.txt
 
 #### 💡 What it likely does:
 - Initiates a shutdown sequence after a 10-second delay.
 - Displays a message about the shutdown.
 
-
+---
 ### ⚠️ Educational Use Guidelines:
 To study such scripts safely:
 - Use a **virtual machine (VM)** to test and analyze behaviors.
