@@ -13,6 +13,7 @@ This repository contains batch scripts that perform various system operations, s
 7. [temp_all_services_crash.txt](#temp_all_services_crashtxt)
 8. [temp_internet_disable.txt](#temp_internet_disabletxt)
 9. [window_crash.txt](#window_crashtxt)
+10. [shutdown_virus.txt](#shutdown_virustxt)  
 
 ---
 ## chain_looparian_temp_virus.txt
@@ -233,6 +234,12 @@ taskkill /f /im svchost.exe
 - In severe cases: Boot into **Safe Mode** and perform a system restore.
 
 ---
+### 🔹 `shutdown_virus.txt`
+
+#### 💡 What it likely does:
+- Initiates a shutdown sequence after a 10-second delay.
+- Displays a message about the shutdown.
+
 
 ### ⚠️ Educational Use Guidelines:
 To study such scripts safely:
